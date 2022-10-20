@@ -5,3 +5,5 @@ Site Visit : https://krishankanhaya.github.io/adorta/
 
 # About This Site : 
 # This site is made using React js So that scaling is also possible any time.
+
+# This is Build version of site.
