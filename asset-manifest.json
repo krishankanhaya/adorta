@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/adorta/static/css/main.531628ba.css",
+    "main.js": "/adorta/static/js/main.ab04a96b.js",
+    "static/js/787.784e5c83.chunk.js": "/adorta/static/js/787.784e5c83.chunk.js",
+    "static/media/footer-background.png": "/adorta/static/media/footer-background.2ba3894a9c4b031e9659.png",
+    "static/media/hero-plate.png": "/adorta/static/media/hero-plate.ffaacd0a973fe5b83edd.png",
+    "static/media/c3-item2.png": "/adorta/static/media/c3-item2.1bdd9a15449e4a3ff4b0.png",
+    "static/media/c3-item3.png": "/adorta/static/media/c3-item3.18d96532bacaca9d4987.png",
+    "static/media/b-div-img.png": "/adorta/static/media/b-div-img.ca27a8e4ad38b9fd09d5.png",
+    "static/media/item3.png": "/adorta/static/media/item3.2851364ae1d23e52de52.png",
+    "static/media/item1.png": "/adorta/static/media/item1.6b4d2f7f10575a8a1f96.png",
+    "static/media/item2.png": "/adorta/static/media/item2.7c74b97f829ab842434c.png",
+    "static/media/s1-img.png": "/adorta/static/media/s1-img.e9268c07b33edd5de77f.png",
+    "static/media/hero-background-img.png": "/adorta/static/media/hero-background-img.4eea8b499aad7e38c450.png",
+    "static/media/s2.png": "/adorta/static/media/s2.1403b937fa17301cee1e.png",
+    "static/media/c3-item1.png": "/adorta/static/media/c3-item1.0a3590ab40f1b9380365.png",
+    "static/media/hero-text.png": "/adorta/static/media/hero-text.07f9c942e7d732a2cdaa.png",
+    "static/media/tomato.png": "/adorta/static/media/tomato.c30ed14cc33f6eeef3e9.png",
+    "static/media/leaf-1.png": "/adorta/static/media/leaf-1.c1037edbedb94cff1cfe.png",
+    "static/media/leaf-2.png": "/adorta/static/media/leaf-2.fae65eb16491267683d8.png",
+    "index.html": "/adorta/index.html",
+    "main.531628ba.css.map": "/adorta/static/css/main.531628ba.css.map",
+    "main.ab04a96b.js.map": "/adorta/static/js/main.ab04a96b.js.map",
+    "787.784e5c83.chunk.js.map": "/adorta/static/js/787.784e5c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531628ba.css",
+    "static/js/main.ab04a96b.js"
+  ]
+}
